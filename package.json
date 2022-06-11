@@ -1,0 +1,21 @@
+{
+  "name": "chat_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "dev": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gtdev.in/alexandr_dev/chat_ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.52.3"
+  }
+}
